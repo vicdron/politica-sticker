@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Politica Sticker</string>
+
+    --> ca-app-pub-3940256099942544/6300978111 teste
+
+
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="add_button_content_description">Add ao WhatsApp</string>
+    <!-- Title of the sticker pack list activity page in case the app contains multiple sticker packs, the singular string will be used when there is only one pack in the app -->
+    <plurals name="title_activity_sticker_packs_list">
+        <item quantity="one">Pacote de Sticker</item>
+        <item quantity="other">Pacote de Sticker</item>
+    </plurals>
+    <!-- Title of the sticker pack page when there are multiple sticker packs in the app -->
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalhes do Sticker</string>
+    <!-- Title of the sticker pack info page which displays the webpage, email and privacy policy of the sticker pack -->
+
+
+    <string name="details_pack_already_added">Pacote adicionado no WhatsApp</string>
+
+    <string name="add_pack_fail_prompt_update_whatsapp">Pacote de adesivos não adicionado. Se você quiser adicioná-lo, certifique-se de atualizar para a versão mais recente do WhatsApp</string>
+    <!-- Text in dialog button when a user has an old version of WhatsApp that prevents them from adding the sticker pack, clicking on it will take user to play store -->
+
+    <string name="sticker_pack_animation_indicator" tools:ignore="MissingTranslation">Animated sticker pack</string>
+    <!-- text we display at the end of sticker pack details page showing that users can tap sticker to see bigger version -->
+    <string name="sticker_pack_details_tap_to_preview" tools:ignore="MissingTranslation">Toque para visualizar o sticker</string>
+    <string name="error_message">Erro com o pacote</string>
+    <string name="title_validation_error">Erro com o pacote</string>
+
+</resources>

@@ -1,0 +1,1520 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Lula",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "06.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "07.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "08.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "09.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "10.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "11.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "13.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "14.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "15.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "16.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "17.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "18.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "19.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "20.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "21.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "22.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "23.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "24.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "25.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "26.webp",
+                    "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Movimento Feministas",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "06.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "07.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "08.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "09.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "10.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "11.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "13.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "14.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "15.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "16.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "17.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "18.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "19.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "20.webp",
+                    "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Girl Power",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "06.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "07.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "08.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "09.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "10.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "11.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "13.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "14.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "15.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "16.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "17.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "18.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "19.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "20.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "21.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "22.webp",
+                    "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Figuras de Esquerda",
+      "publisher": "Politica Sticker",
+      "image_data_version":"1",
+      "tray_image_file": "06.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "07.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "08.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "09.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "10.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "11.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "13.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "14.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "15.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "16.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "17.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "18.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "19.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "20.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "21.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "22.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "23.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "24.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "25.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "26.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "27.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "28.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "29.webp",
+                    "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Figuras de Esquerda II",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "06.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "07.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "08.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "09.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "10.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "11.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "13.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "14.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "15.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "16.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "17.webp",
+                    "emojis": ["☕","🙂"]
+
+        },
+        {
+          "image_file": "18.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "19.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "20.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "21.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "22.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "23.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "24.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "25.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "26.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "27.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "28.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "29.webp",
+                    "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["☕", "🙂"]
+        }
+          ]
+        },
+        {
+          "identifier": "6",
+          "name": "Figuras de Direita",
+          "publisher": "Politíca Stikers",
+          "image_data_version":"1",
+          "tray_image_file": "20S.webp",
+          "publisher_email":"",
+          "publisher_website": "",
+          "privacy_policy_website": "",
+          "license_agreement_website": "",
+          "stickers": [
+            {
+              "image_file": "1S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "2S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "3S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "4S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "5S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "6S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "7S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "8S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "9S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "10S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "11S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "12S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "13S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "14S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "15S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "16S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "17S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "18S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "19S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "20S.webp",
+              "emojis": ["☕","🙂"]
+            }
+          ]
+        },
+        {
+          "identifier": "7",
+          "name": "Figuras de Direita II",
+          "publisher": "Politíca Stikers",
+          "image_data_version":"1",
+          "tray_image_file": "21S.webp",
+          "publisher_email":"",
+          "publisher_website": "",
+          "privacy_policy_website": "",
+          "license_agreement_website": "",
+          "stickers": [
+            {
+              "image_file": "21S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "22S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "23S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "24S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "25S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "26S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "27S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "28S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "29S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "30S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "31S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "32S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "33S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "34S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "35S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "36S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "37S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "38S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "39S.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "40S.webp",
+              "emojis": ["☕","🙂"]
+            }
+          ]
+        },
+    {
+      "identifier": "8",
+      "name": "Donald Trump",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["💛","👆"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["🤨","😐"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😣","👎"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": ["🤣","😕"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Donald Trump II",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "18.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "18.webp",
+          "emojis": ["💛","👆"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🤨","😐"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😣","👎"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "31.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": ["🤣","😕"]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Donald Trump III",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "41.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "41.webp",
+          "emojis": ["💛","👆"]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": ["🤨","😐"]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": ["😣","👎"]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": ["🤣","😕"]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Donald Trump IV",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "76.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "76.webp",
+          "emojis": ["💛","👆"]
+        },
+        {
+          "image_file": "77.webp",
+          "emojis": ["🤨","😐"]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": ["😣","👎"]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "80.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "83.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "84.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "85.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "86.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "87.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "88.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "89.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "90.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "91.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "92.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "93.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "94.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "95.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "96.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "97.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "98.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": ["🤣","😕"]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Donald Trump V",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "61.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "61.webp",
+          "emojis": ["💛","👆"]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": ["🤨","😐"]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": ["😣","👎"]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": ["🤣","😕"]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": ["🤣","😕"]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "TRUMP VI ",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "14",
+      "name": "TRUMP VII",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]}
+      ]
+    }
+      ,{
+      "identifier": "15",
+      "name": "TRUMP VIII",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "16",
+      "name": "Putin",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]},
+        {"image_file": "21.webp","emojis": ["🤣","😕"]},
+        {"image_file": "22.webp","emojis": ["🤣","😕"]},
+        {"image_file": "23.webp","emojis": ["🤣","😕"]},
+        {"image_file": "24.webp","emojis": ["🤣","😕"]},
+        {"image_file": "25.webp","emojis": ["🤣","😕"]},
+        {"image_file": "26.webp","emojis": ["🤣","😕"]},
+        {"image_file": "27.webp","emojis": ["🤣","😕"]},
+        {"image_file": "28.webp","emojis": ["🤣","😕"]},
+        {"image_file": "29.webp","emojis": ["🤣","😕"]},
+        {"image_file": "30.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "17",
+      "name": "Maduro",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "18",
+      "name": "Kim Jong-Un",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]},
+        {"image_file": "21.webp","emojis": ["🤣","😕"]},
+        {"image_file": "22.webp","emojis": ["🤣","😕"]},
+        {"image_file": "23.webp","emojis": ["🤣","😕"]},
+        {"image_file": "24.webp","emojis": ["🤣","😕"]},
+        {"image_file": "25.webp","emojis": ["🤣","😕"]},
+        {"image_file": "26.webp","emojis": ["🤣","😕"]},
+        {"image_file": "27.webp","emojis": ["🤣","😕"]},
+        {"image_file": "28.webp","emojis": ["🤣","😕"]},
+        {"image_file": "29.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "19",
+      "name": "Emmanuel Macron",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "20",
+      "name": "Che Guevara",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]},
+        {"image_file": "21.webp","emojis": ["🤣","😕"]},
+        {"image_file": "22.webp","emojis": ["🤣","😕"]},
+        {"image_file": "23.webp","emojis": ["🤣","😕"]},
+        {"image_file": "24.webp","emojis": ["🤣","😕"]},
+        {"image_file": "25.webp","emojis": ["🤣","😕"]},
+        {"image_file": "26.webp","emojis": ["🤣","😕"]}
+      ]
+    },{
+      "identifier": "21",
+      "name": "Esward Snowden",
+      "publisher": "Politíca Stikers",
+      "image_data_version":"1",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "1.webp","emojis": ["🤣","😕"]},
+        {"image_file": "2.webp","emojis": ["🤣","😕"]},
+        {"image_file": "3.webp","emojis": ["🤣","😕"]},
+        {"image_file": "4.webp","emojis": ["🤣","😕"]},
+        {"image_file": "5.webp","emojis": ["🤣","😕"]},
+        {"image_file": "6.webp","emojis": ["🤣","😕"]},
+        {"image_file": "7.webp","emojis": ["🤣","😕"]},
+        {"image_file": "8.webp","emojis": ["🤣","😕"]},
+        {"image_file": "9.webp","emojis": ["🤣","😕"]},
+        {"image_file": "10.webp","emojis": ["🤣","😕"]},
+        {"image_file": "11.webp","emojis": ["🤣","😕"]},
+        {"image_file": "12.webp","emojis": ["🤣","😕"]},
+        {"image_file": "13.webp","emojis": ["🤣","😕"]},
+        {"image_file": "14.webp","emojis": ["🤣","😕"]},
+        {"image_file": "15.webp","emojis": ["🤣","😕"]},
+        {"image_file": "16.webp","emojis": ["🤣","😕"]},
+        {"image_file": "17.webp","emojis": ["🤣","😕"]},
+        {"image_file": "18.webp","emojis": ["🤣","😕"]},
+        {"image_file": "19.webp","emojis": ["🤣","😕"]},
+        {"image_file": "20.webp","emojis": ["🤣","😕"]},
+        {"image_file": "21.webp","emojis": ["🤣","😕"]},
+        {"image_file": "22.webp","emojis": ["🤣","😕"]},
+        {"image_file": "23.webp","emojis": ["🤣","😕"]},
+        {"image_file": "24.webp","emojis": ["🤣","😕"]},
+        {"image_file": "25.webp","emojis": ["🤣","😕"]},
+        {"image_file": "26.webp","emojis": ["🤣","😕"]},
+        {"image_file": "27.webp","emojis": ["🤣","😕"]},
+        {"image_file": "28.webp","emojis": ["🤣","😕"]},
+        {"image_file": "29.webp","emojis": ["🤣","😕"]},
+        {"image_file": "30.webp","emojis": ["🤣","😕"]}
+      ]
+    }
+  ]
+}
+
